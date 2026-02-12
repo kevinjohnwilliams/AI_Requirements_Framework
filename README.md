@@ -188,4 +188,4 @@ DRAFT — Not yet released for public distribution.
 
 **Kevin Williams**  
 Software Engineer, Barrios Technology (supporting NASA Johnson Space Center)  
-M.S. Artificial Intelligence Candidate, University of Michigan-Dearborn
+M.S. Artificial Intelligence Candidate, University of Michigan
